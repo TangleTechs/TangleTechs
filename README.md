@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... ISCP - IOTA.COM  
 - 🌱 I’m currently learning ... Smart Contacts, DLT 
 - 💞️ I’m looking to collaborate on ... DLT projects
-- 📫 How to reach me ...TangleTeches.net 
+- 📫 How to reach me ...TangleTechs.net 
 
 <!---
 TangleTechs/TangleTechs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
